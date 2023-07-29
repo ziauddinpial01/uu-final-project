@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620616848794",
+    "project_id": "uu-final-project-e283b",
+    "storage_bucket": "uu-final-project-e283b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620616848794:android:fafe5b460de3c917899623",
+        "android_client_info": {
+          "package_name": "com.example.blood_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv-E-Myfso6WxDLVdMQvHX85iuxnw7W1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
